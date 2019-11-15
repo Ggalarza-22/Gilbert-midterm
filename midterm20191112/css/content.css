@@ -44,7 +44,7 @@
   -webkit-align-self: stretch;
       -ms-flex-item-align: stretch;
           align-self: stretch;
-  background: #e6e6e6;
+  background: black;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;

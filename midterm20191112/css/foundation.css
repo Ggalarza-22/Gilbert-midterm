@@ -2256,7 +2256,7 @@ h6, .h6 {
 
 a {
   line-height: inherit;
-  color: #1779ba;
+  color: white;
   text-decoration: none;
   cursor: pointer; }
   a:hover, a:focus {
@@ -2344,7 +2344,7 @@ kbd {
   margin-bottom: 0.5rem;
   font-weight: normal;
   line-height: 1.4;
-  color: #8a8a8a; }
+  color: white; }
 
 .lead {
   font-size: 125%;
@@ -3381,8 +3381,8 @@ select {
     background-color: #d7ecfa;
     color: #0a0a0a; }
   .callout.secondary {
-    background-color: #eaeaea;
-    color: #0a0a0a; }
+    background-color: black;
+    color: white; }
   .callout.success {
     background-color: #e1faea;
     color: #0a0a0a; }
